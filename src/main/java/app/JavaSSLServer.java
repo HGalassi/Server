@@ -55,7 +55,7 @@ public class JavaSSLServer {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-        
+        // test commit
         try {
 			KeyStore ks = KeyStore.getInstance("JKS");
 			InputStream ksIs = new FileInputStream("F:\\WorkSpaceEstudos\\SSLServer\\target\\keystore");
